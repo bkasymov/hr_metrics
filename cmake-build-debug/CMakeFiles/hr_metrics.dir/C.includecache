@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dpenney/Desktop/hr_metrics/Middle_age_of_colleges.c
+stdio.h
+/home/dpenney/Desktop/hr_metrics/stdio.h
+stdlib.h
+/home/dpenney/Desktop/hr_metrics/stdlib.h
+
